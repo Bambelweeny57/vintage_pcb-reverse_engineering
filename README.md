@@ -1,8 +1,12 @@
 <p align="center">
 <img src="images/banner.png
 </p>
+<p align="center">
+  <img src="https://github.com/Bambelweeny57/vintage_pcb-reverse_engineering/blob/main/images/banner.png" width="100%" alt="Vintage PCB Reverse Engineering Banner">
+</p>
 
-# Vintage PCB Reverse Engineering
+Vintage PCB Reverse Engineering
+# 
 
 A collection of workflows, tools, notes and projects related to the reverse engineering, preservation and reconstruction of vintage computer hardware.
 
