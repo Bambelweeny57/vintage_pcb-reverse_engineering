@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/Vintage_PCB_Reverse_Engineeringg
+<img src="images/banner.png
 </p>
 
 # Vintage PCB Reverse Engineering
